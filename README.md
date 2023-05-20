@@ -1,4 +1,4 @@
-# SHAREit - Group Project (Front-End Work)
+# SHAREit - Group Project (Front-End Development)
 
 This is the final group project for the Full-Stack Developer Certificate from Coding Dojo. My assignment was creating the initial wireframe and developing the front-end code.
 
