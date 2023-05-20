@@ -1,6 +1,6 @@
-# SHAREit - Group Project 
+# SHAREit - Group Project from Coding Dojo
 
-Description: Social media app inspired by Twitter using: HTML, CSS, Python, Flask, MySQL, Bootstrap
+**Description:** Social media app inspired by Twitter using: HTML, CSS, Python, Flask, MySQL, Bootstrap
 
 Link to repository of group project code:
 https://github.com/Mariah-Stone70/group_project
